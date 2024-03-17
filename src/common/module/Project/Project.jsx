@@ -23,33 +23,6 @@ export default function Project() {
       <div className="w-full py-5">
         <ProjectSlideCard Content={FeatureItem} />
       </div>
-      <div className="w-full ">
-        <div className="w-full grid lg:grid-cols-2 justify-start items-center">
-          <div className="w-full flex flex-col gap-5">
-            <H1
-              title="Solving content creator's needs."
-              className="md:!text-5xl !text-xl  w-full font-medium !justify-start text-start"
-            />
-            <h1 className="text-sm text-start  text-[#64686a]">
-              Videx AI is a powerful platform that offers content creators a
-              range of tools designed to help them create high-quality videos
-              quickly and easily. With Videx AI, content creators can
-              effortlessly generate engaging videos from text, create product
-              demos, marketing videos, and instructional videos with just one
-              click. The platform leverages advanced machine learning algorithms
-              to extract key information from the text and automatically
-              generate high-quality visuals that are perfectly synced with the
-              audio. Videx AI is incredibly user-friendly and requires no
-              technical expertise to use, making it an ideal solution for
-              content creators of all skill levels.
-            </h1>
-            <div>
-                <ButtonArrow href='/' title="Watch tutorial videos" />
-            </div>
-          </div>
-          
-        </div>
-      </div>
     </div>
   );
 }
