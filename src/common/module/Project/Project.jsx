@@ -20,9 +20,6 @@ export default function Project() {
           members.
         </h1>
       </div>
-      <div className="w-full py-5">
-        <ProjectSlideCard Content={FeatureItem} />
-      </div>
     </div>
   );
 }
