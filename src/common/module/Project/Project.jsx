@@ -47,9 +47,7 @@ export default function Project() {
                 <ButtonArrow href='/' title="Watch tutorial videos" />
             </div>
           </div>
-          <div className="w-full rounded-2xl overflow-hidden">
-            <CustomerServicevideos />
-          </div>
+          
         </div>
       </div>
     </div>
