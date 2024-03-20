@@ -6,6 +6,7 @@ import React from "react";
 import { FaGithub, FaTelegram, FaTwitter } from "react-icons/fa";
 import { FaMedium } from "react-icons/fa6";
 import { MdArrowOutward } from "react-icons/md";
+import { TbBrandX } from "react-icons/tb";
 
 export default function Footer() {
   return (
@@ -33,7 +34,7 @@ export default function Footer() {
             <FaTelegram  size={30} />
             </Link>
             <Link href='https://twitter.com/' target="__blank">
-            <FaTwitter size={30} />
+            <TbBrandX size={30} />
             </Link>
             <Link href='https://medium.com/' target="__blank">
             <FaMedium size={30} />
