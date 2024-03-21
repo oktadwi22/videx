@@ -12,7 +12,7 @@ export const NavigationItem = [
   },
   {
     src: "#vidextoken",
-    title: "Vindex Token",
+    title: "Videx Token",
   },
   {
     src: "#stakeandearn",
