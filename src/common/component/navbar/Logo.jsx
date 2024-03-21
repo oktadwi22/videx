@@ -7,7 +7,7 @@ export default function Logo() {
     <Image
     className="w-full h-auto object-cover" 
     src="/Aset/logonav.png"
-    alt="Visionize Logo"
+    alt="Logo"
     width={400}
     height={400}
     priority
