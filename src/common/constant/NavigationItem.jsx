@@ -7,11 +7,11 @@ export const NavigationItem = [
     title: "Home",
   },
   {
-    src: "#vindexbot",
+    src: "#videxbot",
     title: "Videx bot",
   },
   {
-    src: "#vindextoken",
+    src: "#vidextoken",
     title: "Vindex Token",
   },
   {
