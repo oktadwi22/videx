@@ -12,7 +12,7 @@ import { BsFilePerson } from "react-icons/bs";
 
 export const FeatureItem = [
   {
-    title: 'Slide 1',
+    pict: '/slide/1.png',
     shortDesc: 'Introduction',
     desc: (
       <div className="w-full flex flex-col gap-3">
@@ -22,7 +22,7 @@ export const FeatureItem = [
     icon : <IoIosCloudOutline className="h-12 w-12 mb-4 dark:text-white text-black group-hover:text-white " />
   },
   {
-    title: 'Slide 2',
+    pict: '/slide/2.png',
     shortDesc: 'Transform Your Text into a Video Using a Telegram Bot',
     desc: (
       <div className="w-full flex flex-col gap-3">
@@ -32,7 +32,7 @@ export const FeatureItem = [
     icon : <AiOutlineRobot className="h-12 w-12 mb-4 dark:text-white text-black group-hover:text-white " />
   },
   {
-    title: 'Slide 3',
+    pict: '/slide/3.png',
     shortDesc: 'VIDEX Token Launch',
     desc: (
       <div className="w-full flex flex-col gap-3">
@@ -42,7 +42,7 @@ export const FeatureItem = [
     icon : <TbCloudComputing className="h-12 w-12 mb-4 dark:text-white text-black group-hover:text-white " />
   },
   {
-    title: 'Slide 4',
+    pict: '/slide/4.png',
     shortDesc: 'Revenue Sharing',
     desc: (
       <div className="w-full flex flex-col gap-3">

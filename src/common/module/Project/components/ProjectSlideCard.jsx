@@ -44,24 +44,16 @@ export default function ProjectSlideCard({ Content }) {
               className="w-full h-auto lg:h-[490px] gap-3 group flex  bg-gradient-to-b from-[#0e0e0e] from-50% to-transparent  relative group z-[9]  overflow-hidden rounded-3xl flex-col items-start justify-start text-start p-6"
             >
 
-              <div className="w-[60px] h-[60px] rounded-full border-[1px] border-neutral-300 px-2 py-1 flex justify-center items-center">
               <Image
                   className="w-full h-auto object-cover"
-                  src='/Aset/Logo.png'
+                  src={item.pict}
                   alt="aa"
                   width={400}
                   height={400}
                   loading="lazy"
                 />
-              </div>
-              <h1
-                className={`text-xl dark:text-white text-black  transition-all duration-300 font-semibold group-hover:text-white`}
-              >
-                {item.title}
-              </h1>
-              <h1 className="text-base text-[#999da0]">
-                {item.shortDesc}
-              </h1>
+             
+              
 
                 {item.desc}
               {item.link && (
