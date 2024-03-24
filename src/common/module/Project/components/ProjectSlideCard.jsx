@@ -40,7 +40,6 @@ export default function ProjectSlideCard({ Content }) {
           <SwiperSlide key={index} className="pb-10 lg:pb-20 overflow-hidden ">
             <ComponentTransition
               delay={index * 0.1}
-
               className="w-full h-auto lg:h-[490px] gap-3 group flex  bg-gradient-to-b from-[#0e0e0e] from-50% to-transparent  relative group z-[9]  overflow-hidden rounded-3xl flex-col items-start justify-start text-start p-6"
             >
 
@@ -53,7 +52,9 @@ export default function ProjectSlideCard({ Content }) {
                   loading="lazy"
                 />
              
-              
+              <h1 className="text-base text-[#999da0]">
+                {item.shortDesc}
+              </h1>
 
                 {item.desc}
               {item.link && (
