@@ -14,7 +14,7 @@ export default function About() {
         </div> */}
         <H1
         
-          title="Leverage the full power of Al video generator"
+          title="Stay private, secure, and anonymous"
           className="md:!text-5xl !text-xl lg:w-[50%] w-full font-medium !justify-center text-center"
         />
          <h1 className="text-sm text-center lg:w-[60%] text-[#64686a]">With Videx Al generator, you can automate your video creation process, save time and effort, and create high-quality videos that meet your specific needs and requirements. Whether you’re looking to create product demos, marketing videos, instructional videos, or any other type of video content, Al video generator can help you achieve your goals with ease.</h1>
