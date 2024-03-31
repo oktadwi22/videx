@@ -7,7 +7,7 @@ export default function MainTitle() {
     <div className="max-[547px]:mt-0 max-sm:mt-5  ">
       <TextParallax
         className=" !leading-[0.85em] items-center justify-center flex overflow-hidden  text-center !text-4xl sm:!text-5xl md:!text-7xl w-full  font-bold "
-        texts="A VPN (Virtual Private Network) service that is built on a decentralized architecture."
+        texts="A VPN (Virtual Private Network) Service That Is Built On A Decentralized Architecture."
       />
     </div>
   );
