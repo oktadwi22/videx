@@ -11,26 +11,26 @@ export const Tech = {
 }
 export const TechIcon = [
     {
-        uni: '/Aset/uni.png',
+        uni: '/Aset/yahoo.png',
     },
     {
-        uni: '/Aset/unic.png',
-    },
-    {
-
-        uni: '/Aset/ether.png',
+        uni: '/Aset/benzinga2.png',
     },
     {
 
-        uni: '/Aset/dextools-logo.png',
+        uni: '/Aset/cointelegraph.png',
     },
     {
 
-        uni: '/Aset/sitemark.webp',
+        uni: '/Aset/bignewsnetwork.png',
     },
     {
 
-        uni: '/Aset/recharge.webp',
+        uni: '/Aset/digitaljournal.png',
+    },
+    {
+
+        uni: '/Aset/PR-INSIDER.png',
     }
 ]
 
