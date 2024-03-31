@@ -9,7 +9,7 @@ const sora = Sora({ subsets: ["latin"] });
 export const metadata = {
   title: "PrivagoAI",
   description: "Create Videos Instantly from Any Idea or Content",
-  icons: "/Aset/Logo.png",
+  icons: "/Aset/PRIVAGO-LOGO-small.png",
 };
 
 export default function RootLayout({ children }) {
