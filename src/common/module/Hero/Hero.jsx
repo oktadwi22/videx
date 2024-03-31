@@ -14,7 +14,7 @@ export default function Hero() {
         <MainTitle />
         <H1
           className="mt-5 w-full lg:!w-[80%] !justify-center !text-xs sm:!text-sm lg:!text-base text-center "
-          title="Introducing the Videx AI Telegram bot, an innovative platform that lets you effortlessly transform your words into captivating videos in just a matter of minutes. With this powerful tool at your disposal, you can now bring your message to life and take your content to new heights. Whether you’re looking to inspire, educate, or entertain, the Bideo AI Telegram bot provides you with the perfect platform to create dynamic and engaging videos that resonate with your audience. So why wait? Start using the Videx AI Telegram bot today and unleash the full potential of your content ideas!"
+          title="Privago VPNs support digital assets including crypto coins, NFTs, and DeFi assets. For advanced crypto traders or beginners exploring Web3, using VPNs for crypto adds a crucial security layer. Since VPNs encrypt all traffic sent through their networks, it becomes much more difficult for malicious actors to hack into a crypto wallet and steal the assets inside."
         />
         <div className="w-full py-5 flex justify-center items-center flex-row flex-wrap gap-5">
           <ButtonViewAll
