@@ -34,7 +34,7 @@ export const ProductItem = [
       )
       ,
       linkLabel: 'Read Tokenomics',
-      img: '/Aset/p1.png',
+      img: '/Aset/PP1.png',
       link: 'https://docs.flexgpu.app/product/rent-gpu',
       icon : <BsGpuCard className="h-10 w-10  dark:text-black text-white group-hover:text-white " />
     },
@@ -65,7 +65,7 @@ export const ProductItem = [
       )
       ,
       linkLabel: 'Launch Bot',
-      img: '/Aset/p2.png',
+      img: '/Aset/PP2.jpg',
       link: 'https://t.me/videxai_bot',
       icon : <BsGpuCard className="h-10 w-10  dark:text-black text-white group-hover:text-white " />
     },
@@ -102,7 +102,7 @@ export const ProductItem = [
       )
       ,
       linkLabel: 'Start Free Trial',
-      img: '/Aset/p3.png',
+      img: '/Aset/PP3.jpg',
       link: '/',
       icon : <BsGpuCard className="h-10 w-10  dark:text-black text-white group-hover:text-white " />
     },
