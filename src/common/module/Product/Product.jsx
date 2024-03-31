@@ -8,7 +8,7 @@ export default function Product() {
       <div className="w-full flex gap-5 flex-col py-5 justify-center items-center">
 
         <H1
-          title="Videx AI Products"
+          title="Trading Crypto With a VPN"
           className="md:!text-5xl !text-xl lg:w-[50%] w-full font-medium !justify-center text-center"
         />
 
