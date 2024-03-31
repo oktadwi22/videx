@@ -58,17 +58,17 @@ export const FeatureItem = [
 export const FeatureMenuItem = [
   {
     icon: <FaRobot size={40} />,
-    title: 'AI-Powered Scripts',
-    desc: 'With Invideo’s AI-powered tools, video creation has never been easier. Say goodbye to time-consuming scriptwriting and expensive voice artists.',
+    title: 'Access Worldwide With No Restrictions.',
+    desc: 'PrivagoVPN bypasses content restrictions and censorship to give you secure and immediate access to all the content you love, regardless of your location.',
   },
   {
     icon: <MdKeyboardVoice size={40} />,
-    title: 'Affordable Voice Artist',
+    title: 'Enjoy Unrestricted Streaming And Browsing.',
     desc: 'Our AI voiceover generator can help you create engaging and professional videos in no time.',
   },
   {
     icon: <BsFilePerson size={40} />,
-    title: 'Set yourself',
-    desc: 'And by publishing videos frequently, you can increase your exposure, awareness, and engagement. With Bideo’s AI, you can set yourself up for success and take your video content to the next level.',
+    title: '',
+    desc: 'Privago VPN is a top-tier VPN service that offers excellent security and privacy features for online transactions involving Bitcoin and other cryptocurrencies.',
   },
 ]
