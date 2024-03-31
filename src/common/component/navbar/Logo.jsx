@@ -6,7 +6,7 @@ export default function Logo() {
     <div className="w-[120px] ">
     <Image
     className="w-full h-auto object-cover" 
-    src="/Aset/logonav.png"
+    src="/Aset/PRIVAGO-LOGO-TEXT-WHITE.png"
     alt="Logo"
     width={400}
     height={400}
