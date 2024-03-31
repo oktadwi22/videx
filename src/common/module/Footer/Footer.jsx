@@ -19,7 +19,7 @@ export default function Footer() {
                 alt="Hero"
                 className="overflow-hidden rounded-xl w-[100vw] h-auto  object-cover"
                 height={722}
-                src='/Aset/logonav.png'
+                src='/Aset/PRIVAGO-LOGO-TEXT-WHITE.png'
                 width={550}
                 priority
               />
