@@ -7,7 +7,7 @@ import Footer from "@/common/module/Footer/Footer";
 const sora = Sora({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "VindexAI",
+  title: "PrivagoAI",
   description: "Create Videos Instantly from Any Idea or Content",
   icons: "/Aset/Logo.png",
 };
