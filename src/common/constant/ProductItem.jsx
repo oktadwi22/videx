@@ -8,8 +8,8 @@ import { CiCircleCheck } from "react-icons/ci";
 
 export const ProductItem = [
     {
-      title: 'VIDEX Token',
-      desc: "VIDEX Token is a cryptocurrency that is unique to the Videx AI project. It is built on the Ethereum blockchain and adheres to the ERC-20 standard. The token serves as the currency for the Videx AI service tiers.",
+      title: 'Download Privago VPN',
+      desc: "Download Privago VPN to enjoy its exceptional speed and performance. With Privago VPN, you can access the internet with lightning-fast speed and secure your online activities with top-grade encryption. Experience the peace of mind that comes with knowing that your private information is safe from prying eyes.",
       key: (
         <div className="w-full flex flex-col gap-2">
         <div className="flex justify-start items-center gap-3">
@@ -39,8 +39,8 @@ export const ProductItem = [
       icon : <BsGpuCard className="h-10 w-10  dark:text-black text-white group-hover:text-white " />
     },
     {
-      title: 'Videx AI Telegram Bot',
-      desc: "Videx Al Telegram Bot is a tool that you can use to automate your video creation process, saving you time and effort. With this tool, you can create high-quality videos that meet your specific needs and requirements. Whether you want to create product demos, marketing videos, instructional videos, or any other type of video content, the Al video generator can help you achieve your goals with ease.",
+      title: 'Connect to a VPN Server',
+      desc: "To ensure the security of your online activities, it is advisable to connect to a Virtual Private Network (VPN) server. This will create an encrypted tunnel between your device and the VPN server, providing a secure and private connection that protects your internet traffic from prying eyes. By encrypting your data, a VPN helps to prevent unauthorized access, protect your sensitive information, and maintain your online privacy.",
       key: (
         <div className="w-full flex flex-col gap-2">
         <div className="flex justify-start items-center gap-3">
@@ -70,8 +70,8 @@ export const ProductItem = [
       icon : <BsGpuCard className="h-10 w-10  dark:text-black text-white group-hover:text-white " />
     },
     {
-      title: 'Staking, Revenue-Sharing, and Governance',
-      desc: "Holders of VIDEX tokens are eligible for multiple revenue streams, which include:",
+      title: 'Keep your crypto transaction private and secure',
+      desc: "In order to ensure the privacy and security of your crypto transactions, it is recommended that you choose an exchange platform that offers robust security features such as end-to-end encryption, multi-factor authentication, and cold storage of funds. By doing so, you can prevent unauthorized access to your crypto assets, and keep your transactions private and secure from potential attackers.",
       key: (
         <div className="w-full flex flex-col gap-2">
         <div className="flex justify-start items-center gap-3">
