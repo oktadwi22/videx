@@ -7,12 +7,12 @@ export const NavigationItem = [
     title: "Home",
   },
   {
-    src: "#videxbot",
-    title: "Videx bot",
+    src: "#privagobot",
+    title: "Privago bot",
   },
   {
-    src: "#vidextoken",
-    title: "Videx Token",
+    src: "#privagotoken",
+    title: "Privago Token",
   },
   {
     src: "#stakeandearn",
