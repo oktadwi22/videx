@@ -18,11 +18,11 @@ export default function Hero() {
         />
         <div className="w-full py-5 flex justify-center items-center flex-row flex-wrap gap-5">
           <ButtonViewAll
-            title="Create Your Videos"
+            title="Download Beta App"
             className="!bg-[#EEEEEE] !text-[#3D3B40] transition-colors duration-200 overflow-hidden  outline outline-1 outline-[#EEEEEE]  w-auto py-2"
           />
           <ButtonViewAll
-            title="Join Community"
+            title="Buy PVGO"
             className="hover:!bg-[#EEEEEE] hover:!text-[#3D3B40] transition-colors duration-200 overflow-hidden !bg-transparent outline outline-1 outline-[#EEEEEE] !text-[#EEEEEE] w-auto py-2"
           />
         </div>
