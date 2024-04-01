@@ -1,6 +1,4 @@
 
-
-
 import { IoIosCloudOutline } from "react-icons/io";
 import {FaPiedPiper, FaRobot } from "react-icons/fa";
 import { MdMiscellaneousServices , MdAnimation,MdOutlineSecurity,MdLan  } from "react-icons/md"
@@ -26,7 +24,7 @@ export const FeatureItem = [
   },
   {
     pict: '/slide/2.png',
-    shortDesc: 'How a Decentralized VPN works',
+    shortDesc: 'How a Decentralized VPN Works',
     desc: (
       <div className="w-full flex flex-col gap-3">
       <h1 className="text-sm">A decentralized Virtual Private Network (VPN) is a type of VPN technology that operates without a central authority controlling its servers. Unlike traditional VPNs, which have a single provider responsible for supplying and maintaining servers, dVPN's servers are hosted by independent users. These hosts can use dedicated server machines or install dVPN software on their personal computers, providing a distributed network of servers that can be accessed by anyone using the dVPN app.</h1>
