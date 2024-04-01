@@ -10,64 +10,64 @@ export const ProductItem = [
     {
       title: 'Download Privago VPN',
       desc: "Download Privago VPN to enjoy its exceptional speed and performance. With Privago VPN, you can access the internet with lightning-fast speed and secure your online activities with top-grade encryption. Experience the peace of mind that comes with knowing that your private information is safe from prying eyes.",
-     // key: (
-     //   <div className="w-full flex flex-col gap-2">
-     //   <div className="flex justify-start items-center gap-3">
-     //   <CiCircleCheck size={30} />
-     //   <h1>
-     //   Ownership is renounced.
-     //   </h1>
-     //   </div>
-     //   <div className="flex justify-start items-center gap-3">
-     //   <CiCircleCheck size={30} />
-     //   <h1>
-     //   Ownership is renounced.
-     //   </h1>
-     //   </div>
-     //   <div className="flex justify-start items-center gap-3">
-     //   <CiCircleCheck size={30} />
-     //   <h1>
-     //   Ownership is renounced.
-     //   </h1>
-     //   </div>
-     //   </div>
-     // )
+      key: (
+        <div className="w-full flex flex-col gap-2">
+        <div className="flex justify-start items-center gap-3">
+        <CiCircleCheck size={30} />
+        <h1>
+        Ownership is renounced.
+        </h1>
+        </div>
+        <div className="flex justify-start items-center gap-3">
+        <CiCircleCheck size={30} />
+        <h1>
+        Ownership is renounced.
+        </h1>
+        </div>
+        <div className="flex justify-start items-center gap-3">
+        <CiCircleCheck size={30} />
+        <h1>
+        Ownership is renounced.
+        </h1>
+        </div>
+        </div>
+      )
       ,
-     // linkLabel: 'Read Tokenomics',
+      linkLabel: 'Read Tokenomics',
       img: '/Aset/PP1.png',
       link: 'https://docs.flexgpu.app/product/rent-gpu',
-     // icon : <BsGpuCard className="h-10 w-10  dark:text-black text-white group-hover:text-white " />
+      icon : <BsGpuCard className="h-10 w-10  dark:text-black text-white group-hover:text-white " />
     },
     {
       title: 'Connect to a VPN Server',
       desc: "To ensure the security of your online activities, it is advisable to connect to a Virtual Private Network (VPN) server. This will create an encrypted tunnel between your device and the VPN server, providing a secure and private connection that protects your internet traffic from prying eyes. By encrypting your data, a VPN helps to prevent unauthorized access, protect your sensitive information, and maintain your online privacy.",
-     // key: (
-     //  <div className="w-full flex flex-col gap-2">
-     //   <div className="flex justify-start items-center gap-3">
-     //   <CiCircleCheck size={30} />
-     //   <h1>
-     //   Effectively control all channels
-     //   </h1>
-     //   </div>
-     //   <div className="flex justify-start items-center gap-3">
-     //   <CiCircleCheck size={30} />
-     //   <h1>
-     //   Provide real-time support
-     //   </h1>
-     //   </div>
-     //   <div className="flex justify-start items-center gap-3">
-     //   <CiCircleCheck size={30} />
-     //   <h1>
-     //   Empower customers to self-serve
-     //   </h1>
-     //   </div>
-     //   </div>
-     // )
+      key: (
+       <div className="w-full flex flex-col gap-2">
+        <div className="flex justify-start items-center gap-3">
+        <CiCircleCheck size={30} />
+        <h1>
+        Effectively control all channels
+        </h1>
+        </div>
+        <div className="flex justify-start items-center gap-3">
+        <CiCircleCheck size={30} />
+        <h1>
+        Provide real-time support
+        </h1>
+        </div>
+        <div className="flex justify-start items-center gap-3">
+        <CiCircleCheck size={30} />
+        <h1>
+        Empower customers to self-serve
+        </h1>
+        </div>
+        </div>
+      )
       ,
-     // linkLabel: 'Launch Bot',
+      linkLabel: 'Launch Bot',
       img: '/Aset/PP2.png',
       link: 'https://t.me/videxai_bot',
-     // icon : <BsGpuCard className="h-10 w-10  dark:text-black text-white group-hover:text-white " />
+      icon : <BsGpuCard className="h-10 w-10  dark:text-black text-white group-hover:text-white " />
     },
     {
       title: 'Keep your crypto transaction private and secure',
@@ -101,10 +101,10 @@ export const ProductItem = [
         </div>
       )
       ,
-      // linkLabel: 'Start Free Trial',
+       linkLabel: 'Start Free Trial',
       img: '/Aset/PP3.png',
       link: '/',
-      // icon : <BsGpuCard className="h-10 w-10  dark:text-black text-white group-hover:text-white " />
+       icon : <BsGpuCard className="h-10 w-10  dark:text-black text-white group-hover:text-white " />
     },
    
 
