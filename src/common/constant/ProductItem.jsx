@@ -11,7 +11,7 @@ export const ProductItem = [
       title: 'Download Privago VPN',
       desc: "Download Privago VPN to enjoy its exceptional speed and performance. With Privago VPN, you can access the internet with lightning-fast speed and secure your online activities with top-grade encryption. Experience the peace of mind that comes with knowing that your private information is safe from prying eyes.",
       img: '/Aset/PP1.png',
-      
+    link: 'https://docs.flexgpu.app/product/rent-gpu',
     },
     {
       title: 'Connect to a VPN Server',
