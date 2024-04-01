@@ -15,11 +15,11 @@ export default function VideosHero() {
         autoPlay
       >
         <source
-          src="/Aset/VidexAI – Transform Your Words Into Captivating Videos.mp4"
+          src="/Aset/PrivagoVideo.mp4"
           type="video/mp4"
         />
         <track
-          src="/Aset/VidexAI – Transform Your Words Into Captivating Videos.mp4"
+          src="/Aset/PrivagoVideo.mp4"
           kind="subtitles"
           srcLang="en"
           label="English"
