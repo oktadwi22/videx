@@ -9,6 +9,7 @@ import { TbCloudComputing } from "react-icons/tb";
 import { GrServices } from "react-icons/gr";
 import { MdKeyboardVoice } from "react-icons/md";
 import { BsFilePerson } from "react-icons/bs";
+import { TbSquareRoundedChevronsUpFilled } from "react-icons/tb";
 
 export const FeatureItem = [
   {
@@ -57,7 +58,7 @@ export const FeatureItem = [
 
 export const FeatureMenuItem = [
   {
-    icon: <FaRobot size={40} />,
+    icon: <TbSquareRoundedChevronsUpFilled size={40} />,
     title: 'Access Worldwide With No Restrictions.',
     desc: 'PrivagoVPN bypasses content restrictions and censorship to give you secure and immediate access to all the content you love, regardless of your location.',
   },
