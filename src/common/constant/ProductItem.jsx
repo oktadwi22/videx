@@ -72,39 +72,39 @@ export const ProductItem = [
     {
       title: 'Keep your crypto transaction private and secure',
       desc: "In order to ensure the privacy and security of your crypto transactions, it is recommended that you choose an exchange platform that offers robust security features such as end-to-end encryption, multi-factor authentication, and cold storage of funds. By doing so, you can prevent unauthorized access to your crypto assets, and keep your transactions private and secure from potential attackers.",
-     // key: (
-     //   <div className="w-full flex flex-col gap-2">
-     //   <div className="flex justify-start items-center gap-3">
-     //   <CiCircleCheck size={30} />
-     //   <h1>
-     //   Earning 1% of all VIDEX trading volume
-     //   </h1>
-     //   </div>
-     //   <div className="flex justify-start items-center gap-3">
-     //   <CiCircleCheck size={30} />
-     //   <h1>
-     //   Premium features subscription
-     //   </h1>
-     //   </div>
-     //   <div className="flex justify-start items-center gap-3">
-     //   <CiCircleCheck size={30} />
-     //   <h1>
-     //   Receiving 5% referral rewards
-     //   </h1>
-     //   </div>
-     //   <div className="flex justify-start items-center gap-3">
-     //   <CiCircleCheck size={30} />
-     //   <h1>
-     //   Participating in partner project airdrops
-     //   </h1>
-     //   </div>
-     //   </div>
+      key: (
+        <div className="w-full flex flex-col gap-2">
+        <div className="flex justify-start items-center gap-3">
+        <CiCircleCheck size={30} />
+        <h1>
+        Earning 1% of all VIDEX trading volume
+        </h1>
+        </div>
+        <div className="flex justify-start items-center gap-3">
+        <CiCircleCheck size={30} />
+        <h1>
+        Premium features subscription
+        </h1>
+        </div>
+        <div className="flex justify-start items-center gap-3">
+        <CiCircleCheck size={30} />
+        <h1>
+        Receiving 5% referral rewards
+        </h1>
+        </div>
+        <div className="flex justify-start items-center gap-3">
+        <CiCircleCheck size={30} />
+        <h1>
+        Participating in partner project airdrops
+        </h1>
+        </div>
+        </div>
       )
       ,
-     // linkLabel: 'Start Free Trial',
+      // linkLabel: 'Start Free Trial',
       img: '/Aset/PP3.png',
       link: '/',
-     // icon : <BsGpuCard className="h-10 w-10  dark:text-black text-white group-hover:text-white " />
+      // icon : <BsGpuCard className="h-10 w-10  dark:text-black text-white group-hover:text-white " />
     },
    
 
