@@ -10,33 +10,9 @@ export const ProductItem = [
     {
       title: 'Download Privago VPN',
       desc: "Download Privago VPN to enjoy its exceptional speed and performance. With Privago VPN, you can access the internet with lightning-fast speed and secure your online activities with top-grade encryption. Experience the peace of mind that comes with knowing that your private information is safe from prying eyes.",
-      key: (
-        <div className="w-full flex flex-col gap-2">
-        <div className="flex justify-start items-center gap-3">
-        <CiCircleCheck size={30} />
-        <h1>
-        Ownership is renounced.
-        </h1>
-        </div>
-        <div className="flex justify-start items-center gap-3">
-        <CiCircleCheck size={30} />
-        <h1>
-        Ownership is renounced.
-        </h1>
-        </div>
-        <div className="flex justify-start items-center gap-3">
-        <CiCircleCheck size={30} />
-        <h1>
-        Ownership is renounced.
-        </h1>
-        </div>
-        </div>
-      )
-      ,
-      linkLabel: 'Read Tokenomics',
       img: '/Aset/PP1.png',
       link: 'https://docs.flexgpu.app/product/rent-gpu',
-      icon : <BsGpuCard className="h-10 w-10  dark:text-black text-white group-hover:text-white " />
+      
     },
     {
       title: 'Connect to a VPN Server',
