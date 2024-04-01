@@ -3,7 +3,7 @@ import React from "react";
 
 export default function VideosHero() {
   const videoSrc =
-    "/Aset/VidexAI – Transform Your Words Into Captivating Videos.mp4";
+    "/Aset/PrivagoVideo.mp4";
 
   return (
     <div className="w-full rounded-2xl">
