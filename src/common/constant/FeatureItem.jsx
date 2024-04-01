@@ -10,6 +10,8 @@ import { GrServices } from "react-icons/gr";
 import { MdKeyboardVoice } from "react-icons/md";
 import { BsFilePerson } from "react-icons/bs";
 import { TbSquareRoundedChevronsUpFilled } from "react-icons/tb";
+import { MdVpnLock } from "react-icons/md";
+import { MdPrivacyTip } from "react-icons/md";
 
 export const FeatureItem = [
   {
@@ -63,12 +65,12 @@ export const FeatureMenuItem = [
     desc: 'PrivagoVPN bypasses content restrictions and censorship to give you secure and immediate access to all the content you love, regardless of your location.',
   },
   {
-    icon: <MdKeyboardVoice size={40} />,
+    icon: <MdVpnLock size={40} />,
     title: 'Enjoy Unrestricted Streaming And Browsing.',
     desc: 'Our AI voiceover generator can help you create engaging and professional videos in no time.',
   },
   {
-    icon: <BsFilePerson size={40} />,
+    icon: <MdPrivacyTip size={40} />,
     title: '',
     desc: 'Privago VPN is a top-tier VPN service that offers excellent security and privacy features for online transactions involving Bitcoin and other cryptocurrencies.',
   },
