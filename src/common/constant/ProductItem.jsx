@@ -15,34 +15,9 @@ export const ProductItem = [
     },
     {
       title: 'Connect to a VPN Server',
-      desc: "To ensure the security of your online activities, it is advisable to connect to a Virtual Private Network (VPN) server. This will create an encrypted tunnel between your device and the VPN server, providing a secure and private connection that protects your internet traffic from prying eyes. By encrypting your data, a VPN helps to prevent unauthorized access, protect your sensitive information, and maintain your online privacy.",
-       key: (
-       <div className="w-full flex flex-col gap-2">
-        <div className="flex justify-start items-center gap-3">
-        <CiCircleCheck size={30} />
-        <h1>
-        Effectively control all channels
-        </h1>
-        </div>
-        <div className="flex justify-start items-center gap-3">
-        <CiCircleCheck size={30} />
-        <h1>
-        Provide real-time support
-        </h1>
-        </div>
-        <div className="flex justify-start items-center gap-3">
-        <CiCircleCheck size={30} />
-        <h1>
-        Empower customers to self-serve
-        </h1>
-        </div>
-        </div>
-      )
-        ,
-        linkLabel: 'Launch Bot', 
+      desc: "To ensure the security of your online activities, it is advisable to connect to a Virtual Private Network (VPN) server. This will create an encrypted tunnel between your device and the VPN server, providing a secure and private connection that protects your internet traffic from prying eyes. By encrypting your data, a VPN helps to prevent unauthorized access, protect your sensitive information, and maintain your online privacy.", 
       img: '/Aset/PP2.png',
         link: 'https://t.me/videxai_bot',
-      icon : <BsGpuCard className="h-10 w-10  dark:text-black text-white group-hover:text-white " />
     },
     {
       title: 'Keep your crypto transaction private and secure',
