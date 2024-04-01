@@ -65,7 +65,7 @@ export const ProductItem = [
       )
       ,
       linkLabel: 'Launch Bot',
-      img: '/Aset/PP2.jpg',
+      img: '/Aset/PP2.png',
       link: 'https://t.me/videxai_bot',
       icon : <BsGpuCard className="h-10 w-10  dark:text-black text-white group-hover:text-white " />
     },
@@ -102,7 +102,7 @@ export const ProductItem = [
       )
       ,
       linkLabel: 'Start Free Trial',
-      img: '/Aset/PP3.jpg',
+      img: '/Aset/PP3.png',
       link: '/',
       icon : <BsGpuCard className="h-10 w-10  dark:text-black text-white group-hover:text-white " />
     },
