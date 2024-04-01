@@ -19,7 +19,7 @@ export const FeatureItem = [
     shortDesc: 'Introduction',
     desc: (
       <div className="w-full flex flex-col gap-3">
-      <h1 className="text-sm">Privago is a cutting-edge VPN (Virtual Private Network) service that is built on a decentralized architecture. Its unique approach to VPNs provides users with enhanced security and privacy by decentralizing the network and encrypting all traffic sent through it.</h1>
+      <h2 className="text-sm">Privago is a cutting-edge VPN (Virtual Private Network) service that is built on a decentralized architecture. Its unique approach to VPNs provides users with enhanced security and privacy by decentralizing the network and encrypting all traffic sent through it.</h2>
       </div>
     ),
     icon : <IoIosCloudOutline className="h-12 w-12 mb-4 dark:text-white text-black group-hover:text-white " />
@@ -29,7 +29,7 @@ export const FeatureItem = [
     shortDesc: 'How a Decentralized VPN works',
     desc: (
       <div className="w-full flex flex-col gap-3">
-      <h1 className="text-sm">A decentralized Virtual Private Network (VPN) is a type of VPN technology that operates without a central authority controlling its servers. Unlike traditional VPNs, which have a single provider responsible for supplying and maintaining servers, dVPN's servers are hosted by independent users. These hosts can use dedicated server machines or install dVPN software on their personal computers, providing a distributed network of servers that can be accessed by anyone using the dVPN app.</h1>
+      <h2 className="text-sm">A decentralized Virtual Private Network (VPN) is a type of VPN technology that operates without a central authority controlling its servers. Unlike traditional VPNs, which have a single provider responsible for supplying and maintaining servers, dVPN's servers are hosted by independent users. These hosts can use dedicated server machines or install dVPN software on their personal computers, providing a distributed network of servers that can be accessed by anyone using the dVPN app.</h2>
       </div>
     ),
     icon : <AiOutlineRobot className="h-12 w-12 mb-4 dark:text-white text-black group-hover:text-white " />
@@ -39,7 +39,7 @@ export const FeatureItem = [
     shortDesc: 'Privago Secure Your Transaction',
     desc: (
       <div className="w-full flex flex-col gap-3">
-      <h1 className="text-sm">Privago VPN encrypt all traffic sent through their networks, it becomes much more difficult for malicious actors to hack into a crypto wallet and steal the assets inside.</h1>
+      <h2 className="text-sm">Privago VPN encrypt all traffic sent through their networks, it becomes much more difficult for malicious actors to hack into a crypto wallet and steal the assets inside.</h2>
       </div>
     ),
     icon : <TbCloudComputing className="h-12 w-12 mb-4 dark:text-white text-black group-hover:text-white " />
@@ -49,7 +49,7 @@ export const FeatureItem = [
     shortDesc: 'Privago VPN Beta Release',
     desc: (
       <div className="w-full flex flex-col gap-3">
-      <h1 className="text-sm">Privago VPN has just been launched in beta, offering access to four servers for trial usage. Protect your online activities and keep your cryptocurrency transactions secure and anonymous with Privago VPN. You can now download the Privago VPN app from privago.ai to experience enhanced online privacy and security.</h1>
+      <h2 className="text-sm">Privago VPN has just been launched in beta, offering access to four servers for trial usage. Protect your online activities and keep your cryptocurrency transactions secure and anonymous with Privago VPN. You can now download the Privago VPN app from privago.ai to experience enhanced online privacy and security.</h2>
       </div>
     ),
     icon : <MdAnimation  className="h-12 w-12 mb-4 dark:text-white text-black group-hover:text-white " />
