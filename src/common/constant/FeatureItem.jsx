@@ -46,7 +46,7 @@ export const FeatureItem = [
   },
   {
     pict: '/slide/4.png',
-    shortDesc: 'Privago VPN Beta release',
+    shortDesc: 'Privago VPN Beta Release',
     desc: (
       <div className="w-full flex flex-col gap-3">
       <h1 className="text-sm">Privago VPN has just been launched in beta, offering access to four servers for trial usage. Protect your online activities and keep your cryptocurrency transactions secure and anonymous with Privago VPN. You can now download the Privago VPN app from privago.ai to experience enhanced online privacy and security.</h1>
