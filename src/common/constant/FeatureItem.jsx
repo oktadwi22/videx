@@ -12,7 +12,6 @@ import { MdVpnLock } from "react-icons/md";
 import { MdPrivacyTip } from "react-icons/md";
 
 export const FeatureItem = [
-  
   {
     pict: '/product/3.png',
     shortDesc: 'Privago X AIgentX',
@@ -57,8 +56,6 @@ export const FeatureItem = [
     link : "/",
     icon : <AiOutlineRobot className="h-12 w-12 mb-4 dark:text-white text-black group-hover:text-white " />
   },
-
-
 ];
 
 export const FeatureMenuItem = [
