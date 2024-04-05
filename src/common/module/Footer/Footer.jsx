@@ -3,7 +3,7 @@ import { NavigationItem } from "@/common/constant/NavigationItem";
 import { SocialItem } from "@/common/constant/Social";
 import Link from "next/link";
 import React from "react";
-import { FaGithub, FaTelegram, FaTwitter } from "react-icons/fa";
+import { FaTelegram } from "react-icons/fa";
 import { FaMedium } from "react-icons/fa6";
 import { MdArrowOutward } from "react-icons/md";
 import { TbBrandX } from "react-icons/tb";
@@ -36,15 +36,19 @@ export default function Footer() {
               <Link href="https://t.me/privago" target="__blank">
                 <FaTelegram size={30} />
               </Link>
+
               <Link href="https://twitter.com/privagoai" target="__blank">
                 <TbBrandX size={30} />
               </Link>
+
               <Link href="https://privago.medium.com" target="__blank">
                 <FaMedium size={30} />
               </Link>
+
               <Link href="https://privago.gitbook.io" target="__blank">
                 <SiGitbook size={30} />
               </Link>
+
               <Link href={"https://www.dextools.io/app/en/ether/pair-explorer/0x187a4f1e93c2dabeb1fe5e6171078c6736cfcd11?t=1712303198334"}>
                 <svg
                   fill="none"
@@ -61,6 +65,7 @@ export default function Footer() {
                   />
                 </svg>
               </Link>
+              
               <Link href="https://etherscan.io/token/0x0d85693b4cb4b8bb4d407e33ba1d9de861db80ca" target="__blank">
                 <FaEthereum size={30} />
               </Link>
