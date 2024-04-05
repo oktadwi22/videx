@@ -36,24 +36,24 @@ export const FeatureItem = [
   },
   {
     pict: '/product/3.png',
-    shortDesc: 'Privago Secure Your Transaction',
+    shortDesc: 'Privago X AIgentX',
     desc: (
       <div className="w-full flex flex-col gap-3">
-      <h1 className="text-sm">Privago VPN encrypt all traffic sent through their networks, it becomes much more difficult for malicious actors to hack into a crypto wallet and steal the assets inside.</h1>
+      <h1 className="text-sm">Super thrilled about our collaboration with 0xAigentx! They're developing an advanced bot that's even smarter than the average people to assist $PVGO community.</h1>
       </div>
     ),
-    link : "https://privago.medium.com/how-does-privago-decentralized-vpn-work-22d29432faa5",
+    link : "https://twitter.com/0xAigentx/status/1775879465869992042?t=nULE4-pIu0D769iBp-UClQ&s=19",
     icon : <TbCloudComputing className="h-12 w-12 mb-4 dark:text-white text-black group-hover:text-white " />
   },
   {
     pict: '/product/4.png',
-    shortDesc: 'Privago VPN Beta Release',
+    shortDesc: 'Privago X 0xscan',
     desc: (
       <div className="w-full flex flex-col gap-3">
-      <h1 className="text-sm">Privago VPN has just been launched in beta, offering access to four servers for trial usage. Protect your online activities and keep your cryptocurrency transactions secure and anonymous with Privago VPN. You can now download the Privago VPN app from privago.ai to experience enhanced online privacy and security.</h1>
+      <h1 className="text-sm">$PVGO Smart contract has undergone an audit conducted by 0xscans, a project specializing in Intelligent and Streamlined Smart Contract Auditing, which harnesses the power of AI for comprehensive assessments.</h1>
       </div>
     ),
-    link : "/",
+    link : "https://twitter.com/0xscans/status/1776040090847891739?t=3Qf0BW1s8iq0g5-ZoRK9Hg&s=19",
     icon : <MdAnimation  className="h-12 w-12 mb-4 dark:text-white text-black group-hover:text-white " />
   },
 
