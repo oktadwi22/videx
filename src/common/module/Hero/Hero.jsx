@@ -30,7 +30,7 @@ export default function Hero() {
             className="hover:!bg-[#EEEEEE] hover:!text-[#3D3B40] transition-colors duration-200 overflow-hidden !bg-transparent outline outline-1 outline-[#EEEEEE] !text-[#EEEEEE] w-auto py-2"
           />
           </Link>
-          
+            
         </div>
         <div className="w-full">
           <VideosHero/>
