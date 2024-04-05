@@ -6,7 +6,7 @@ import { Tech, TechIcon } from "@/common/constant/Tech";
 
 export default function SliderTechLeader() {
   return (
-    <div className="grid grid-cols-2 lg:grid-cols-6 gap-10 items-center w-full overflow-hidden  py-2 px-5 ">
+    <div className="grid sm:grid-cols-3 grid-cols-2 lg:grid-cols-6 gap-10 items-center w-full overflow-hidden  py-2 px-5 ">
       {TechIcon.map((item, index) => (
         <div className="w-[150px]" key={index}>
         <Image

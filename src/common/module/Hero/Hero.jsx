@@ -31,7 +31,9 @@ export default function Hero() {
         </div>
         <div className="w-full gap-5 flex justify-center items-center flex-col py-10">
           <h1 className="text-sm text-[#64686a]">MEDIA NEWS</h1>
+          <div className="flex justify-center items-center">
           <SliderTechLeader />
+          </div>
         </div>
       </div>
     </div>
