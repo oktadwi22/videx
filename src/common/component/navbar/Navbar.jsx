@@ -71,13 +71,13 @@ const Navbar = () => {
         </div>
 
         <div className="lg:flex hidden  w-full items-end justify-end">
-        <Link href="https://t.me/videxai_bot" className=" flex justify-end">
+        {/* <Link href="https://t.me/videxai_bot" className=" flex justify-end">
           <ButtonViewAll
             title="Launch Bot"
             className={`
              transition-colors duration-300 overflow-hidden !bg-transparent outline outline-1  w-auto !py-2 outline-[#F8EDFF] !text-[#F8EDFF] hover:!bg-[#F8EDFF] hover:!text-[#3D3B40]`}
           />
-        </Link>
+        </Link> */}
         </div>
       </div>
     </motion.div>

@@ -7,6 +7,7 @@ import { FaGithub, FaTelegram, FaTwitter } from "react-icons/fa";
 import { FaMedium } from "react-icons/fa6";
 import { MdArrowOutward } from "react-icons/md";
 import { TbBrandX } from "react-icons/tb";
+import { SiGitbook } from "react-icons/si";
 
 export default function Footer() {
   return (
@@ -26,21 +27,21 @@ export default function Footer() {
             </div>
             <div>
               <h1 className="text-center">
-              Create Videos Instantly from Any Idea or Content
+              A VPN Virtual Private Network service that is built on a decentralized architecture.
               </h1>
             </div>
             <div className="gap-5 flex py-5 justify-center items-center w-full">
-            <Link href='/' target="__blank">
+            <Link href='https://t.me/privago' target="__blank">
             <FaTelegram  size={30} />
             </Link>
-            <Link href='https://twitter.com/' target="__blank">
+            <Link href='https://twitter.com/privagoai' target="__blank">
             <TbBrandX size={30} />
             </Link>
-            <Link href='https://medium.com/' target="__blank">
+            <Link href='https://privago.medium.com' target="__blank">
             <FaMedium size={30} />
             </Link>
-            <Link href="https://github.com/" target="__blank">
-            <FaGithub  size={30} />
+            <Link href="https://privago.gitbook.io" target="__blank">
+            <SiGitbook  size={30} />
             </Link>
           </div>
           </div>

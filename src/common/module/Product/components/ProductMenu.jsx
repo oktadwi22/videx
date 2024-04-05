@@ -87,10 +87,7 @@ export default function ProductMenu() {
                 />
                 <div className="py-2 px-1">{ProductItem[indexItem].key}</div>
                 <div className="w-full px-2 relative max-lg:py-10 lg:top-[60px]">
-                <ButtonArrow
-                  title={ProductItem[indexItem].linkLabel}
-                  href={ProductItem[indexItem].link}
-                />
+                
               </div>
               </div>
 

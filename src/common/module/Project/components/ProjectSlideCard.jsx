@@ -59,7 +59,7 @@ export default function ProjectSlideCard({ Content }) {
                 {item.desc}
               {item.link && (
                 <div className="py-3">
-                  <ButtonArrow title="Read More" href={item.link} />
+                  <ButtonArrow title="More" href={item.link} />
                 </div>
               )}
             </ComponentTransition>
