@@ -12,28 +12,7 @@ import { MdVpnLock } from "react-icons/md";
 import { MdPrivacyTip } from "react-icons/md";
 
 export const FeatureItem = [
-  {
-    pict: '/product/1.png',
-    shortDesc: 'Introduction',
-    desc: (
-      <div className="w-full flex flex-col gap-3">
-      <h1 className="text-sm">Privago is a cutting-edge VPN (Virtual Private Network) service that is built on a decentralized architecture. Its unique approach to VPNs provides users with enhanced security and privacy by decentralizing the network and encrypting all traffic sent through it.</h1>
-      </div>
-    ),
-    link : "/",
-    icon : <IoIosCloudOutline className="h-12 w-12 mb-4 dark:text-white text-black group-hover:text-white " />
-  },
-  {
-    pict: '/product/2.png',
-    shortDesc: 'How a Decentralized VPN Works',
-    desc: (
-      <div className="w-full flex flex-col gap-3">
-      <h1 className="text-sm">A decentralized Virtual Private Network (VPN) is a type of VPN technology that operates without a central authority controlling its servers. Unlike traditional VPNs, which have a single provider responsible for supplying and maintaining servers, dVPNs servers are hosted by independent users.</h1>
-      </div>
-    ),
-    link : "/",
-    icon : <AiOutlineRobot className="h-12 w-12 mb-4 dark:text-white text-black group-hover:text-white " />
-  },
+  
   {
     pict: '/product/3.png',
     shortDesc: 'Privago X AIgentX',
@@ -55,6 +34,28 @@ export const FeatureItem = [
     ),
     link : "https://twitter.com/0xscans/status/1776040090847891739?t=3Qf0BW1s8iq0g5-ZoRK9Hg&s=19",
     icon : <MdAnimation  className="h-12 w-12 mb-4 dark:text-white text-black group-hover:text-white " />
+  },
+  {
+    pict: '/product/1.png',
+    shortDesc: 'Introduction',
+    desc: (
+      <div className="w-full flex flex-col gap-3">
+      <h1 className="text-sm">Privago is a cutting-edge VPN (Virtual Private Network) service that is built on a decentralized architecture. Its unique approach to VPNs provides users with enhanced security and privacy by decentralizing the network and encrypting all traffic sent through it.</h1>
+      </div>
+    ),
+    link : "/",
+    icon : <IoIosCloudOutline className="h-12 w-12 mb-4 dark:text-white text-black group-hover:text-white " />
+  },
+  {
+    pict: '/product/2.png',
+    shortDesc: 'How a Decentralized VPN Works',
+    desc: (
+      <div className="w-full flex flex-col gap-3">
+      <h1 className="text-sm">A decentralized Virtual Private Network (VPN) is a type of VPN technology that operates without a central authority controlling its servers. Unlike traditional VPNs, which have a single provider responsible for supplying and maintaining servers, dVPNs servers are hosted by independent users.</h1>
+      </div>
+    ),
+    link : "/",
+    icon : <AiOutlineRobot className="h-12 w-12 mb-4 dark:text-white text-black group-hover:text-white " />
   },
 
 
