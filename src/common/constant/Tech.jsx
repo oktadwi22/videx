@@ -13,7 +13,7 @@ export const Tech = {
 export const TechIcon = [
     {
         uni: '/Aset/yahoo.png',
-        src: "https://finance.yahoo.com/news/privago-virtual-private-network-built-200000172.html"
+        href: 'https://finance.yahoo.com/news/privago-virtual-private-network-built-200000172.html'
     },
     {
         uni: '/partners/digitaljournal.png',
