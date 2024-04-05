@@ -28,7 +28,7 @@ export const FeatureItem = [
     shortDesc: 'How a Decentralized VPN Works',
     desc: (
       <div className="w-full flex flex-col gap-3">
-      <h1 className="text-sm">A decentralized Virtual Private Network (VPN) is a type of VPN technology that operates without a central authority controlling its servers. Unlike traditional VPNs, which have a single provider responsible for supplying and maintaining servers, dVPN's servers are hosted by independent users.</h1>
+      <h1 className="text-sm">A decentralized Virtual Private Network (VPN) is a type of VPN technology that operates without a central authority controlling its servers. Unlike traditional VPNs, which have a single provider responsible for supplying and maintaining servers, dVPNs servers are hosted by independent users.</h1>
       </div>
     ),
     link : "/",
