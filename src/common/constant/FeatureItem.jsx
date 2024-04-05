@@ -39,7 +39,7 @@ export const FeatureItem = [
     shortDesc: 'Privago X AIgentX',
     desc: (
       <div className="w-full flex flex-col gap-3">
-      <h1 className="text-sm">Super thrilled about our collaboration with 0xAigentx! They're developing an advanced bot that's even smarter than the average people to assist $PVGO community.</h1>
+      <h1 className="text-sm">Super thrilled about our collaboration with 0xAigentx! They are developing an advanced bot thats even smarter than the average people to assist $PVGO community.</h1>
       </div>
     ),
     link : "https://twitter.com/0xAigentx/status/1775879465869992042?t=nULE4-pIu0D769iBp-UClQ&s=19",
