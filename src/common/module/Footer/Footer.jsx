@@ -8,6 +8,7 @@ import { FaMedium } from "react-icons/fa6";
 import { MdArrowOutward } from "react-icons/md";
 import { TbBrandX } from "react-icons/tb";
 import { SiGitbook } from "react-icons/si";
+import { FaEthereum } from "react-icons/fa";
 
 export default function Footer() {
   return (
@@ -59,6 +60,9 @@ export default function Footer() {
                     fill-rule="evenodd"
                   />
                 </svg>
+              </Link>
+              <Link href="https://etherscan.io/token/0x0d85693b4cb4b8bb4d407e33ba1d9de861db80ca" target="__blank">
+                <FaEthereum size={30} />
               </Link>
             </div>
           </div>
