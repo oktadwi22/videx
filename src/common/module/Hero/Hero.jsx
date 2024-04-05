@@ -24,6 +24,12 @@ export default function Hero() {
             className="!bg-[#EEEEEE] !text-[#3D3B40] transition-colors duration-200 overflow-hidden  outline outline-1 outline-[#EEEEEE]  w-auto py-2"
           />
           </Link>
+          <Link href={"https://app.uniswap.org/swap?inputCurrency=ETH&outputCurrency=0x0d85693b4cb4b8bb4d407e33ba1d9de861db80ca"}>
+          <ButtonViewAll
+            title="Buy PVGO"
+            className="hover:!bg-[#EEEEEE] hover:!text-[#3D3B40] transition-colors duration-200 overflow-hidden !bg-transparent outline outline-1 outline-[#EEEEEE] !text-[#EEEEEE] w-auto py-2"
+          />
+          </Link>
           
         </div>
         <div className="w-full">
