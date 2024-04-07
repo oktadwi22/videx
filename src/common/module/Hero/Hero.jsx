@@ -22,7 +22,7 @@ export default function Hero() {
           title="Privago VPNs support digital assets including crypto coins, NFTs, and DeFi assets. For advanced crypto traders or beginners exploring Web3, using VPNs for crypto adds a crucial security layer. Since VPNs encrypt all traffic sent through their networks, it becomes much more difficult for malicious actors to hack into a crypto wallet and steal the assets inside."
         />
         <div className="w-full py-5 flex justify-center items-center flex-row flex-wrap gap-5">
-          <Link href={"https://www.mediafire.com/file/czkjunsyh05hzu0/Privago+VPN.apk/file"}>
+          <Link href={"https://www.mediafire.com/file/6dltleg0m9mykt9/Privago1.1.02.apk/file"}>
           <ButtonViewAll
             title="Download Beta App"
             className="!bg-[#EEEEEE] !text-[#3D3B40] transition-colors duration-200 overflow-hidden  outline outline-1 outline-[#EEEEEE]  w-auto py-2"
