@@ -7,7 +7,7 @@ export const NavigationItem = [
     title: "Home",
   },
   {
-    src: "/",
+    src: "https://www.mediafire.com/file/o5r37bebjfqauvg/Privago1.1.02.apk/file",
     title: "Privago VPN",
   },
   {
