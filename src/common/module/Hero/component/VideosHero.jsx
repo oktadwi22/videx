@@ -3,7 +3,7 @@ import React from "react";
 
 export default function VideosHero() {
   const videoSrc =
-    "/Aset/PrivagoVideo.mp4";
+    "/Aset/VideoNew.mp4";
 
   return (
     <div className="w-full rounded-2xl">
@@ -15,11 +15,11 @@ export default function VideosHero() {
         autoPlay
       >
         <source
-          src="/Aset/PrivagoVideo.mp4"
+          src="/Aset/VideoNew.mp4"
           type="video/mp4"
         />
         <track
-          src="/Aset/PrivagoVideo.mp4"
+          src="/Aset/VideoNew.mp4"
           kind="subtitles"
           srcLang="en"
           label="English"
