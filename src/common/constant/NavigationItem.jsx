@@ -14,4 +14,8 @@ export const NavigationItem = [
     src: "https://etherscan.io/token/0x0d85693b4cb4b8bb4d407e33ba1d9de861db80ca",
     title: "Privago Token",
   },
+  {
+    src: "http://stake.privago.ai/",
+    title: "Stake PVGO",
+  },
 ];
