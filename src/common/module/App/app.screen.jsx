@@ -6,21 +6,21 @@ import Link from "next/link";
 import ButtonViewAll from "@/common/component/element/ButtonViewAll";
 import AppSlideCard from "./AppSlideCard";
 
-function VideoSrc() {
-  return (
-    <div className="w-full rounded-2xl">
-      <video width="100%" height="100%" controls preload="auto" autoPlay>
-        <source src="/app/privago_app.mp4" type="video/mp4" />
-        <track
-          src="/app/privago_app.mp4"
-          kind="subtitles"
-          srcLang="en"
-          label="English"
-        />
-      </video>
-    </div>
-  );
-}
+// function VideoSrc() {
+//   return (
+//     <div className="w-full rounded-2xl">
+//       <video width="100%" height="100%" controls preload="auto" autoPlay>
+//         <source src="/app/privago_app.mp4" type="video/mp4" />
+//         <track
+//           src="/app/privago_app.mp4"
+//           kind="subtitles"
+//           srcLang="en"
+//           label="English"
+//         />
+//       </video>
+//     </div>
+//   );
+// }
 
 export default function AppScreen() {
   return (
@@ -30,6 +30,7 @@ export default function AppScreen() {
           title="Privago VPN"
           className="md:!text-5xl !text-xl lg:w-[50%] w-full font-medium !justify-center text-center"
         />
+
         <h1 className="text-sm text-center lg:w-[60%] text-[#64686a]">
           Privago VPN, a Virtual Private Network (VPN) service built on a
           decentralized architecture that supports digital assets such as
