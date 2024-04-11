@@ -35,10 +35,10 @@ export default function AppScreen() {
           <img src="/app/app-1.png" alt="" className="w-[280px]" />
         </div>
         <div className="w-full flex flex-col items-center justify-center">
-          <img src="/app/app-1.png" alt="" className="w-[280px]" />
+          <img src="/app/app-2.png" alt="" className="w-[280px]" />
         </div>
         <div className="w-full flex flex-col items-center justify-center">
-          <img src="/app/app-1.png" alt="" className="w-[280px]" />
+          <img src="/app/app-3.png" alt="" className="w-[280px]" />
         </div>
       </div>
 
