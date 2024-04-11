@@ -14,7 +14,7 @@ export default function Home() {
       <Product />
       <Project />
       {/*<Faq />*/}
-
+    
       
       {/* <About /> */}
       {/* <Values /> */}
