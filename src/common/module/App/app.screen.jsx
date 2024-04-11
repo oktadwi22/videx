@@ -30,6 +30,7 @@ export default function AppScreen() {
           className="md:!text-5xl !text-xl lg:w-[50%] w-full font-medium !justify-center text-center"
         />
       </div>
+      
       <div className="relative w-full grid grid-cols-1 md:grid-cols-3 gap-4 mt-16">
         <div className="w-full flex flex-col items-center justify-center">
           <img src="/app/app-1.png" alt="" className="w-[280px]" />
