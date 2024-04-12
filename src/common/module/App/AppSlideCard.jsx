@@ -13,7 +13,7 @@ import Image from "@/common/component/element/Image";
 
 export const AppSlideItems = [
   {
-    pict: "/app/app-slide-1.png",
+    pict: "/app/4.png",
     shortDesc: "Privago X AIgentX",
     desc: (
       <div className="w-full flex flex-col gap-3">
@@ -24,7 +24,7 @@ export const AppSlideItems = [
     ),
   },
   {
-    pict: "/app/app-slide-2.png",
+    pict: "/app/6.png",
     shortDesc: "Privago X 0xscan",
     desc: (
       <div className="w-full flex flex-col gap-3">
@@ -35,7 +35,7 @@ export const AppSlideItems = [
     ),
   },
   {
-    pict: "/app/app-slide-3.png",
+    pict: "/app/5.png",
     shortDesc: "Introduction",
     desc: (
       <div className="w-full flex flex-col gap-3">
